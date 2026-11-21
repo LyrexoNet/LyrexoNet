@@ -5,6 +5,6 @@
 >
 > If you need to speak with me, please email me at [me@lyrexo.net](mailto:me@lyrexo.net) or DM me on Discord [@lyrexo.net](https://discord.com/users/1346519169100681226).
 
-Maintainer @ [is-a.dev](https://is-a.dev)
+PR Reviewer @ [is-a.dev](https://is-a.dev)
 
 I’m a developer, and currently a high school student in my junior year. 
